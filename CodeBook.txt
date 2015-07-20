@@ -1,0 +1,8 @@
+In the "tidydataset.txt", each row is unique and specified by a pair of one-user and one-activity. The activity is WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING. The user is from 1 to 30 (the experiment was carried out on 30 volunteers). The data contains 180 rows (observations) and 68 columns (variables).
+
+More information on the original dataset and experiment: https://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
+
+The variables the file "tidydataset.txt" described as below:
+1st Column: Subject ID, Integer, From 1 to 30, Unit: Person
+2nd Column: Activity: Factor, Either of (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING), Unit: Category
+3rd to 68th Column: The average on the mean and standard deviation of the measurements, From -1 to 1, Unit: None (normalized into [-1, 1]).
