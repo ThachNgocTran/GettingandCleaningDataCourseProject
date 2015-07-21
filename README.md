@@ -2,6 +2,8 @@
 Repo for Getting and Cleaning Data Course Project
 
 The code works as below:
+Note: There are many other comments inside the code (run_analysis.R)!
+These steps correspond to each consecutive question in the Course Project.
 
 1. Read the "subject_train.txt".
 2. Read the "X_train.txt".
